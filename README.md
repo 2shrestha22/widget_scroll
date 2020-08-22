@@ -1,6 +1,6 @@
 # widget_scroll
 
-A new Flutter package project.
+A flutter package that scrolls list of widgets automatically. Can be useful to move list of images at a constant speed.
 
 ## Getting Started
 
