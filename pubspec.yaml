@@ -2,7 +2,7 @@ name: widget_scroll
 description: A flutter package to srcoll list of widgets. Widgets should be in Column or Row to make it work for now.
 version: 0.0.1
 author: Sangam Shrestha <2shrestha22@gmail.com>
-homepage: https://sangams.com.np
+homepage: https://github.com/2shrestha22/widget_scroll
 
 environment:
   sdk: ">=2.7.0 <3.0.0"
