@@ -2,6 +2,8 @@
 
 A simple flutter package that scrolls list of widgets automatically at a constant speed. Can be useful to move list of images for show case.
 
+- [GitHub Repository](https://github.com/2shrestha22/widget_scroll)
+
 ## Usage
 
 Here is an example for using this widget:
