@@ -10,8 +10,8 @@ Here is an example for using this widget:
         child: Row(
             children:
                 images.map((imageUrl) => Image.network(imageUrl)).toList(),
-        ),
-    )
+            ),
+        )
 ```
 ## LICENSE
 ```
